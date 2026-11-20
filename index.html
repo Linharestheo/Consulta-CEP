@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Api</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="container">
+        <form>
+            <div>
+                <h1>CONSULTA CEP</h1>
+            </div>
+            <div class="input">
+                <label>CEP:</label>
+                <div class="buscar">
+                    <input type="text" id="cep" autocomplete="off">
+                    <button type="button" class="btn-input" onclick="buscarCep()">Buscar</button>
+                    <button type="button" class="btn-input" onclick="limparInput()">Limpar</button>
+                </div>
+
+            </div>
+
+            <div class="input">
+                <label>Logradouro:</label>
+                <input type="text" id="logradouro" readonly>
+            </div>
+
+            <div class="input">
+                <label>Complemento:</label>
+                <input type="text" id="complemento" readonly>
+            </div>
+            <div class="input">
+                <label>Unidade:</label>
+                <input type="text" id="unidade" readonly>
+            </div>
+            <div class="input">
+                <label>Bairro:</label>
+                <input type="text" id="bairro" readonly>
+            </div>
+            <div class="input">
+                <label>Localidade:</label>
+                <input type="text" id="localidade" readonly>
+            </div>
+            <div class="input">
+                <label>Uf:</label>
+                <input type="text" id="uf" readonly>
+            </div>
+            <div class="input">
+                <label>Estado:</label>
+                <input type="text" id="estado" readonly>
+            </div>
+            <div class="input">
+                <label>Regiao:</label>
+                <input type="text" id="regiao" readonly>
+            </div>
+            <div class="input">
+                <label>IBGE:</label>
+                <input type="text" id="ibge" readonly>
+            </div>
+            <div class="input">
+                <label>Gia:</label>
+                <input type="text" id="gia" readonly>
+            </div>
+            <div class="input">
+                <label>DDD:</label>
+                <input type="text" id="ddd" readonly>
+            </div>
+            <div class="input">
+                <label>Siafi:</label>
+                <input type="text" id="siafi" readonly>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
