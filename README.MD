@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📮 Consulta CEP
+# Consulta CEP
 
 Aplicação web simples para consultar endereços a partir do CEP. O usuário digita o código postal e os campos de endereço são preenchidos automaticamente com os dados retornados pela API.
 
@@ -15,11 +15,11 @@ Aplicação web simples para consultar endereços a partir do CEP. O usuário di
 
 ## ✨ Funcionalidades
 
-- 🔎 Busca de endereço por CEP
-- ⚡ Preenchimento automático de: logradouro, complemento, unidade, bairro, localidade, UF, estado, região, IBGE, GIA, DDD e SIAFI
-- 🧹 Botão **Limpar** para resetar o formulário
-- 🌙 Interface escura, responsiva e com animações suaves
-- 🎯 Estados de foco e hover para melhor usabilidade e acessibilidade
+- Busca de endereço por CEP
+- Preenchimento automático de: logradouro, complemento, unidade, bairro, localidade, UF, estado, região, IBGE, GIA, DDD e SIAFI
+- Botão **Limpar** para resetar o formulário
+- Interface escura, responsiva e com animações suaves
+- Estados de foco e hover para melhor usabilidade e acessibilidade
 
 ## 🛠️ Tecnologias
 
