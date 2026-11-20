@@ -40,7 +40,7 @@ Aplicação web simples para consultar endereços a partir do CEP. O usuário di
    ```
 3. Abra o `index.html` no navegador, ou use a extensão **Live Server** do VS Code.
 
-4. Ou acesse o link: 
+4. Ou acesse o link: https://linharestheo.github.io/Consulta-CEP/
 
 ## 📖 Como usar
 
