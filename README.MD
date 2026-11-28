@@ -13,7 +13,7 @@ Aplicação web simples para consultar endereços a partir do CEP. O usuário di
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Busca de endereço por CEP
 - Preenchimento automático de: logradouro, complemento, unidade, bairro, localidade, UF, estado, região, IBGE, GIA, DDD e SIAFI
@@ -21,14 +21,14 @@ Aplicação web simples para consultar endereços a partir do CEP. O usuário di
 - Interface escura, responsiva e com animações suaves
 - Estados de foco e hover para melhor usabilidade e acessibilidade
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) HTML5
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) CSS3
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript (Fetch API)
 - [ViaCEP](https://viacep.com.br/) para consulta dos dados
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
@@ -42,14 +42,14 @@ Aplicação web simples para consultar endereços a partir do CEP. O usuário di
 
 4. Ou acesse o link: https://linharestheo.github.io/Consulta-CEP/
 
-## 📖 Como usar
+## Como usar
 
 1. Digite o CEP no campo (somente números).
 2. Clique em **Buscar**.
 3. Os dados do endereço serão exibidos nos campos abaixo.
 4. Clique em **Limpar** para fazer uma nova consulta.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 consulta-cep/
@@ -59,14 +59,14 @@ consulta-cep/
 └── README.MD
 ```
 
-## 🔮 Melhorias futuras
+## Melhorias futuras
 
 - [ ] Máscara de formatação no campo CEP (00000-000)
 - [ ] Indicador de carregamento no botão Buscar
 - [ ] Mensagens de erro para CEP inválido ou não encontrado
 - [ ] Copiar endereço completo com um clique
 
-## 👨‍💻 Autor
+## Autor
 
 Feito por [Theo Linhares Marano](https://github.com/Linharestheo).
 
